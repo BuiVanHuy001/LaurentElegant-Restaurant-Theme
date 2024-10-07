@@ -2,6 +2,6 @@
 
 Here’s a link if you wish to view the Laurent [documentation](https://laurent.qodeinteractive.com/documentation/).
 
-homepage -> /laurent.qodeinteractive.com/index.html
+[Demo Pages](https://buivanhuy001.github.io/LaurentElegant-Restaurant-Theme/laurent.qodeinteractive.com/)
 
-<img src="./feature.jpg">
+<img src="./feature.jpg">_
